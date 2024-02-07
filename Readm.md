@@ -81,14 +81,14 @@ export default ReactuseState
 ```
 - props
 ```js
-function ReactProps({name,age}) {
+export function ReactProps({name,age}) {
   return (
     <div>
         {name} {age}
     </div>
   )
 }
-export default ReactProps
+
 
 
 function App() {
