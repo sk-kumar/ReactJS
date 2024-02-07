@@ -79,3 +79,25 @@ const ReactuseState = () => {
 
 export default ReactuseState
 ```
+- props
+```js
+function ReactProps({name,age}) {
+  return (
+    <div>
+        {name} {age}
+    </div>
+  )
+}
+export default ReactProps
+
+
+function App() {
+  return (
+    <>
+      <ReactProps name="John" age="40" />
+    </>
+  )
+}
+
+export default App
+```
