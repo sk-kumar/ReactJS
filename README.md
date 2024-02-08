@@ -1,21 +1,31 @@
-# ReactJS
-## React Hooks
-- Basic Hooks
-  - use
-  - useState
-  - useEffect
-  - useContext
-- Additional Hooks
-  - useReducer
-  - useCallback
-  - useMemo
-  - useRef
-  - useImperativeHandle
-  - useInsertionEffect
-  - useLayoutEffect
-  - useOptimistic
-  - useSyncExternalStore
-  - useDebugValue
-  - useDeferredValue
-  - useTransition
-  - useId
+## Q&A
+- Q1. What is the role of React in software development?
+- Q2. What is React?
+- Q3. What is SPA(Single Page Application)?
+- Q4. What are the advantages of React?
+- Q5. What are disadvantages of React?
+- Q6. What is the difference between React and Angular?
+- Q7. What is DOM?
+- Q8. What is the difference between DOM and Virtual DOM?
+- Q9. What are React Components?
+- Q10. How to setup react project?
+- Q11. What is npm? What is the role of node_modules folder? 
+- Q12. What is the role of public folder in React?
+- Q13. What is the role of src folder in React?
+- Q14. What is the role of index.html page in React?
+- Q15. What is  the role of App.js file in React?
+- Q16. What is the role of function and return inside App.js?
+- Q17. Can we have a function without return inside App.js?
+- Q18. What is the role of export default inside App.js?
+- Q19. What is the role of index.js file, ReactDOM and render method in React?
+- Q20. How React App load and display the components in browser?
+- Q21. What is JSX?
+- Q22. What are the advantages of JSX?
+- Q.23 Can browser read a JSX File? What is Babel?
+- Q24. What is Transpiler?
+- Q25. Is it possible to use JSX without React?
+- Q26. What is fragment in React?
+- Q27. How do you iterate over a list in JSX? What I is the use of map method?
+- Q28. What are props n JSX?
+- Q29. What are spread operator?
+- Q30. What are the types conditional rendering in JSX?
