@@ -1,4 +1,5 @@
 # Registration form
+```js
 import React, { useState } from 'react'
 
 const RegistrationForm = () => {
@@ -31,5 +32,5 @@ const RegistrationForm = () => {
     </form>
   )
 }
-
 export default RegistrationForm
+```
