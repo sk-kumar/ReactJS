@@ -19,3 +19,9 @@
   - useDeferredValue
   - useTransition
   - useId
+## Create React App
+  - npx create-react-app myapp
+  - yarn create react-app myapp
+## Create Vite
+  - npm create vite@latest
+  - yarn create vite
